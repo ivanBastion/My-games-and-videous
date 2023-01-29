@@ -1,0 +1,12 @@
+html, body {
+  height: 150%;
+  width: 100%;
+}
+.main-title{
+  color:aqua;
+  font-style: italic;
+  
+}
+.box {
+  display:flex
+}
